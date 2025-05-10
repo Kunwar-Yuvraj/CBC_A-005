@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Online Proctored Exam System
 Overview
 The Online Proctored Exam System is a web-based application designed to conduct secure and monitored online exams. It ensures the integrity of the exam process by detecting and preventing malicious activities such as tab switching, right-clicking, cellphone usage, and more. The system calculates a risk score based on detected violations and terminates the exam if the risk score exceeds a predefined threshold.
@@ -72,3 +73,7 @@ The system evaluates the code against predefined test cases.
 Results:
 
 Exam results, including risk score and violation details, are stored and displayed.
+=======
+# CBC_A-005
+Get Me Placed
+>>>>>>> 793daa89b99d31ac569e8e23de7b8095eb48cb03
