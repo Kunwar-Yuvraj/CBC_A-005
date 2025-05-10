@@ -1,0 +1,272 @@
+[
+    {
+        "question": "What is the purpose of a kernel in an operating system?",
+        "answers": {
+            "a": "To handle user input and display output.",
+            "b": "To manage files and directories.",
+            "c": "To act as the core interface between the hardware and the software.",
+            "d": "To provide networking services."
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "false",
+            "c_correct": "true",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "What is virtual memory?",
+        "answers": {
+            "a": "A type of memory that is physically located on the motherboard.",
+            "b": "A technique that allows a computer to use more memory than is physically available.",
+            "c": "A type of memory that is used for caching data.",
+            "d": "A type of memory that is used for storing the operating system kernel."
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "true",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "What is a process in the context of an operating system?",
+        "answers": {
+            "a": "A type of hardware component.",
+            "b": "A program in execution.",
+            "c": "A file stored on the hard drive.",
+            "d": "A network connection."
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "true",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "Which of the following scheduling algorithms gives each process a fair share of CPU time?",
+        "answers": {
+            "a": "First-Come, First-Served (FCFS)",
+            "b": "Shortest Job First (SJF)",
+            "c": "Round Robin",
+            "d": "Priority Scheduling"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "false",
+            "c_correct": "true",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "What is a device driver?",
+        "answers": {
+            "a": "A program that controls the operation of a peripheral device.",
+            "b": "A program that manages memory allocation.",
+            "c": "A program that provides network services.",
+            "d": "A program that is used for virus scanning."
+        },
+        "correct_answers": {
+            "a_correct": "true",
+            "b_correct": "false",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "What is the purpose of a file system?",
+        "answers": {
+            "a": "To manage the CPU's processing speed.",
+            "b": "To organize and manage files on a storage device.",
+            "c": "To handle network communication.",
+            "d": "To provide a user interface for interacting with the OS."
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "true",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "What is a deadlock?",
+        "answers": {
+            "a": "A situation where a process is waiting indefinitely for a resource held by another process, and vice versa.",
+            "b": "A type of memory error.",
+            "c": "A type of network failure.",
+            "d": "A situation where a program terminates unexpectedly."
+        },
+        "correct_answers": {
+            "a_correct": "true",
+            "b_correct": "false",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "What is the role of a shell in an operating system?",
+        "answers": {
+            "a": "To translate high-level programming languages into machine code.",
+            "b": "To provide a user interface for accessing the operating system's services.",
+            "c": "To manage the allocation of memory to processes.",
+            "d": "To control the flow of data between the CPU and peripheral devices."
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "true",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u0915\u094c\u0935\u0947 \u0915\u094b \u0915\u094d\u092f\u093e \u092e\u0939\u0938\u0942\u0938 \u0939\u094b \u0930\u0939\u093e \u0925\u093e?",
+        "answers": {
+            "a": "\u092d\u0942\u0916",
+            "b": "\u092a\u094d\u092f\u093e\u0938",
+            "c": "\u0917\u0941\u0938\u094d\u0938\u093e",
+            "d": "\u0925\u0915\u093e\u0928"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "true",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u0915\u094c\u0935\u0947 \u0928\u0947 \u092a\u093e\u0928\u0940 \u092a\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u092c\u0938\u0947 \u092a\u0939\u0932\u0947 \u0915\u094d\u092f\u093e \u0926\u0947\u0916\u093e?",
+        "answers": {
+            "a": "\u0924\u093e\u0932\u093e\u092c",
+            "b": "\u0928\u0926\u0940",
+            "c": "\u0915\u0941\u0906\u0901",
+            "d": "\u092e\u091f\u0915\u093e"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "false",
+            "c_correct": "false",
+            "d_correct": "true"
+        }
+    },
+    {
+        "question": "\u092e\u091f\u0915\u0947 \u092e\u0947\u0902 \u092a\u093e\u0928\u0940 \u0915\u093e \u0938\u094d\u0924\u0930 \u0915\u0948\u0938\u093e \u0925\u093e?",
+        "answers": {
+            "a": "\u092c\u0939\u0941\u0924 \u090a\u092a\u0930",
+            "b": "\u0906\u0927\u093e \u092d\u0930\u093e \u0939\u0941\u0906",
+            "c": "\u092c\u0939\u0941\u0924 \u0928\u0940\u091a\u0947",
+            "d": "\u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092d\u0930\u093e \u0939\u0941\u0906"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "false",
+            "c_correct": "true",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u0915\u094c\u0935\u0947 \u0928\u0947 \u092a\u093e\u0928\u0940 \u092a\u0940\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u094d\u092f\u093e \u0909\u092a\u093e\u092f \u0915\u093f\u092f\u093e?",
+        "answers": {
+            "a": "\u092a\u0924\u094d\u0925\u0930 \u0921\u093e\u0932\u0947",
+            "b": "\u092a\u0924\u094d\u0924\u093f\u092f\u093e\u0902 \u0921\u093e\u0932\u0940",
+            "c": "\u092e\u093f\u091f\u094d\u091f\u0940 \u0921\u093e\u0932\u0940",
+            "d": "\u0918\u094b\u0902\u0938\u0932\u0947 \u0921\u093e\u0932\u0947"
+        },
+        "correct_answers": {
+            "a_correct": "true",
+            "b_correct": "false",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u0915\u094c\u0935\u0947 \u0928\u0947 \u092e\u091f\u0915\u0947 \u092e\u0947\u0902 \u092a\u0924\u094d\u0925\u0930 \u0915\u094d\u092f\u094b\u0902 \u0921\u093e\u0932\u0947?",
+        "answers": {
+            "a": "\u092e\u091f\u0915\u0947 \u0915\u094b \u0924\u094b\u0921\u093c\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f",
+            "b": "\u092a\u093e\u0928\u0940 \u0915\u094b \u0920\u0902\u0921\u093e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f",
+            "c": "\u092a\u093e\u0928\u0940 \u0915\u0947 \u0938\u094d\u0924\u0930 \u0915\u094b \u090a\u092a\u0930 \u0932\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f",
+            "d": "\u092e\u091f\u0915\u0947 \u0915\u094b \u092d\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "false",
+            "c_correct": "true",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u0907\u0938 \u0915\u0939\u093e\u0928\u0940 \u0938\u0947 \u0939\u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0938\u0940\u0916 \u092e\u093f\u0932\u0924\u0940 \u0939\u0948?",
+        "answers": {
+            "a": "\u0932\u093e\u0932\u091a \u092c\u0941\u0930\u0940 \u092c\u0932\u093e \u0939\u0948",
+            "b": "\u090f\u0915\u0924\u093e \u092e\u0947\u0902 \u092c\u0932 \u0939\u0948",
+            "c": "\u0915\u094b\u0936\u093f\u0936 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0940 \u0915\u092d\u0940 \u0939\u093e\u0930 \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u0940",
+            "d": "\u0908\u092e\u093e\u0928\u0926\u093e\u0930\u0940 \u0938\u092c\u0938\u0947 \u0905\u091a\u094d\u091b\u0940 \u0928\u0940\u0924\u093f \u0939\u0948"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "false",
+            "c_correct": "true",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u0915\u0939\u093e\u0928\u0940 \u092e\u0947\u0902 \u0915\u094c\u0935\u093e \u0915\u0948\u0938\u093e \u0925\u093e?",
+        "answers": {
+            "a": "\u092e\u0942\u0930\u094d\u0916",
+            "b": "\u0906\u0932\u0938\u0940",
+            "c": "\u092c\u0941\u0926\u094d\u0927\u093f\u092e\u093e\u0928",
+            "d": "\u0915\u094d\u0930\u0942\u0930"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "false",
+            "c_correct": "true",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u092a\u093e\u0928\u0940 \u090a\u092a\u0930 \u0906\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0915\u094c\u0935\u0947 \u0928\u0947 \u0915\u094d\u092f\u093e \u0915\u093f\u092f\u093e?",
+        "answers": {
+            "a": "\u0909\u0921\u093c \u0917\u092f\u093e",
+            "b": "\u0928\u0943\u0924\u094d\u092f \u0915\u093f\u092f\u093e",
+            "c": "\u092a\u093e\u0928\u0940 \u092a\u093f\u092f\u093e",
+            "d": "\u092a\u0924\u094d\u0925\u0930 \u092b\u0947\u0902\u0915\u0947"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "false",
+            "c_correct": "true",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u092e\u091f\u0915\u093e \u0915\u0948\u0938\u093e \u0925\u093e?",
+        "answers": {
+            "a": "\u092e\u093f\u091f\u094d\u091f\u0940 \u0915\u093e",
+            "b": "\u092a\u094d\u0932\u093e\u0938\u094d\u091f\u093f\u0915 \u0915\u093e",
+            "c": "\u0927\u093e\u0924\u0941 \u0915\u093e",
+            "d": "\u0932\u0915\u0921\u093c\u0940 \u0915\u093e"
+        },
+        "correct_answers": {
+            "a_correct": "true",
+            "b_correct": "false",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    },
+    {
+        "question": "\u0915\u094c\u0935\u0947 \u0915\u094b \u092a\u093e\u0928\u0940 \u0915\u0939\u093e\u0901 \u092e\u093f\u0932\u093e?",
+        "answers": {
+            "a": "\u091c\u0902\u0917\u0932 \u092e\u0947\u0902",
+            "b": "\u0917\u093e\u0901\u0935 \u092e\u0947\u0902",
+            "c": "\u092a\u0939\u093e\u0921\u093c \u092a\u0930",
+            "d": "\u0928\u0926\u0940 \u092e\u0947\u0902"
+        },
+        "correct_answers": {
+            "a_correct": "false",
+            "b_correct": "true",
+            "c_correct": "false",
+            "d_correct": "false"
+        }
+    }
+]

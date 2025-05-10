@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "student1",
+      "password": "password1",
+      "email": "john.doe@example.com",
+      "profileImage": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "username": "student2",
+      "password": "password2",
+      "email": "jane.smith@example.com",
+      "profileImage": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "username": "student3",
+      "password": "password3",
+      "email": "mike.johnson@example.com",
+      "profileImage": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "username": "student4",
+      "password": "password4",
+      "email": "sarah.williams@example.com",
+      "profileImage": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "username": "student5",
+      "password": "password5",
+      "email": "david.brown@example.com",
+      "profileImage": "https://i.pravatar.cc/150?img=5"
+    }
+  ]
